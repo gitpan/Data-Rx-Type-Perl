@@ -1,0 +1,11 @@
+--- 
+abstract: experimental / perl types
+author: 
+  - Ricardo SIGNES <rjbs@cpan.org>
+generated_by: Dist::Zilla::Plugin::MetaYaml version 1.003
+license: perl
+name: Data-Rx-Type-Perl
+requires: 
+  Data::Rx: 0.004
+  Scalar::Util: 0
+version: 0.001
